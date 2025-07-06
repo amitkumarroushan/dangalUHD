@@ -1,7 +1,7 @@
-Brand= Xiaomi
-Model= MiTV-AXSO2
-Name= dangalUHD
-Device= dangalUHD
-Version= 8.1.0
-Security= 2019-02-05
-Build= OPM1.171019.011
+- Brand= Xiaomi
+- Model= MiTV-AXSO2
+- Name= dangalUHD
+- Device= dangalUHD
+- Version= 8.1.0
+- Security= 2019-02-05
+- Build= OPM1.171019.011
